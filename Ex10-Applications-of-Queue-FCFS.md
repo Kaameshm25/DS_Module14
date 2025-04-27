@@ -1,5 +1,5 @@
 # Ex 2(e) Applications of Queue – FCFS
-## DATE:
+## DATE:27/4/2025
 ## AIM:
 To write a C function to calculate the turnaround time of each process given their burst time and waiting time in First Come first Serve scheduling algorithm.
 ## Algorithm
@@ -11,8 +11,8 @@ To write a C function to calculate the turnaround time of each process given the
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: A.LAHARI
-RegisterNumber:  212223230111
+Developed by: Ragavan
+RegisterNumber:  212223040160
 */
 int turnaroundtime( int proc[], int n,int burst_time[], int wait_time[], int tat[]) { 
    // calculating turnaround time by adding 
