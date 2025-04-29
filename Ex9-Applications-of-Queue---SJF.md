@@ -1,4 +1,3 @@
-
 # Ex 2(d) Applications of Queue - SJF
 ## DATE: 27/4/2025
 ## AIM:
